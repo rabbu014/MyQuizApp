@@ -25,7 +25,8 @@ QuizApp is a ReactJS-based web application that allows users to take assessments
 4. **Final Score**:
    - Once the user completes all questions, the application displays the final score out of the total number of questions.
 
-"C:\Users\Rabbani Jamadar\Desktop\ReactJS_Projects\quizapp\400330511-0ad51989-11ac-444e-b4b7-b0721099a92b.png"
+<img width="1231" alt="400330511-0ad51989-11ac-444e-b4b7-b0721099a92b" src="https://github.com/user-attachments/assets/3f0b306d-9235-4d2b-8f81-658ec2f7ab12" />
+
 
 ## Technologies Used
 
